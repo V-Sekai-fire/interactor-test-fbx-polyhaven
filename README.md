@@ -8,4 +8,4 @@ Each model comes as an FBX file and as a gzipped OBJ with its material file, bes
 
 ## Licence
 
-Each model is CC0 1.0, as its JSON record states.
+CC0 1.0. See [LICENSE](LICENSE). Each model is CC0 1.0, as its JSON record states.
